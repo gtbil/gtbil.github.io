@@ -1,8 +1,8 @@
-baseURL: https://example.com
+baseURL: https://gtil.github.io
 languageCode: en-us
-title: Archie
+title: Grant Billings Homepage
 theme: archie
-copyright: © Athul
+copyright: © gtbil
 pygmentsstyle: monokai
 pygmentscodefences: yes
 pygmentscodefencesguesssyntax: yes
@@ -11,13 +11,10 @@ params:
   social:
     - icon: github
       name: GitHub
-      url: https://github.com/athul/archie
+      url: https://github.com/gtbil/gtbil
     - icon: twitter
       name: Twitter
       url: https://twitter.com/athulcajay/
-    - icon: gitlab
-      name: GitLab
-      url: https://gitlab.com/athul/
   subtitle: Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)
   useCDN: no
 menu:
@@ -34,3 +31,8 @@ menu:
     - name: Tags
       url: /tags
       weight: 4
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
