@@ -2,73 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gtil.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/posts/2020-12-01-r-rmarkdown/</loc>
+    <loc>/posts/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/tags/plot/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/categories/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/tags/r-markdown/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/tags/regression/</loc>
+    <loc>/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/posts/tg-gh/</loc>
+    <loc>/posts/tg-gh/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/tags/primer/</loc>
+    <loc>/tags/primer/</loc>
     <lastmod>2020-04-01T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/posts/post-1/</loc>
+    <loc>/posts/post-1/</loc>
     <lastmod>2020-04-01T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/tags/todo/</loc>
+    <loc>/tags/todo/</loc>
     <lastmod>2020-04-01T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/posts/post-4/</loc>
+    <loc>/posts/post-4/</loc>
     <lastmod>2020-03-18T12:13:35+05:30</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/archives/</loc>
+    <loc>/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/posts/post-7/</loc>
+    <loc>/posts/post-7/</loc>
     <lastmod>2018-03-18T12:13:38+05:30</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/posts/post-5/</loc>
+    <loc>/posts/post-5/</loc>
     <lastmod>2018-03-18T12:13:38+05:30</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/posts/post-6/</loc>
+    <loc>/posts/post-6/</loc>
     <lastmod>2018-03-18T12:13:36+05:30</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/posts/post-3/</loc>
+    <loc>/posts/post-3/</loc>
     <lastmod>2018-03-18T12:13:32+05:30</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/tags/procrastinating/</loc>
+    <loc>/tags/procrastinating/</loc>
     <lastmod>2018-03-18T12:13:32+05:30</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/posts/post-2/</loc>
+    <loc>/posts/post-2/</loc>
     <lastmod>2018-03-18T12:13:30+05:30</lastmod>
   </url><url>
-    <loc>https://gtil.github.io/tags/space/</loc>
+    <loc>/tags/space/</loc>
     <lastmod>2018-03-18T12:13:30+05:30</lastmod>
   </url>
 </urlset>
