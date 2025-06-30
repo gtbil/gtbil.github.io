@@ -14,7 +14,7 @@
       <link>/about/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
       <guid>/about/</guid>
-      <description>&lt;p&gt;Welcome to my personal site!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Welcome to my personal site!&lt;/p&gt;&#xA;&lt;p&gt;I am currently a Postdoctoral Research Scholar at North Carolina State University, co-mentored by Dr. Jeffrey Dunne and&#xA;Dr. Amanda Hulse-Kemp. My main interests are in the design and analysis of plant breeding field experiments, the&#xA;application of statistics to genetics and genomics, and modeling biological systems through simulation. I collaborate&#xA;directly with multiple University and USDA-ARS breeding programs, primarily focusing on peanut and cotton. I have been a&#xA;daily R user since 2018, using traditional frequentist statistics and, more recently, Bayesian methods for making&#xA;inferences from data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome: first post</title>
